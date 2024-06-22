@@ -6,10 +6,12 @@
 >* 后端开发(看心情)
 
 #### 主页 Login页:
-![image](https://github.com/VXTWHHH/Vue3Manager/assets/44088208/4612dc5e-0393-4aab-a80e-ce89d6c61947)
+![image](https://github.com/VXTWHHH/Vue3Manager/assets/44088208/f4bee269-b894-4e10-9b72-8cd8d4ac8876)
+
 
 
 #### 管理页 Admin页
-![image](https://github.com/VXTWHHH/Vue3Manager/assets/44088208/805899f9-2ad2-443d-99e1-2fb1fbc07078)
+![image](https://github.com/VXTWHHH/Vue3Manager/assets/44088208/98292cc0-35da-46c0-8330-c2582bad73de)
+
 
 
